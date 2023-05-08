@@ -1,0 +1,2 @@
+This is example of text for typing speedometer app.
+Please expand this file with more sentences!
